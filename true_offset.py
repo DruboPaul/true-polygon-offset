@@ -4,9 +4,8 @@ import math
 import os
 
 # ------------------------------------------------------------------
-# Drubo & Team - GIS Geometry Experiment
-# Purpose: Create a TRUE mathematical offset for polygons
-# (because the standard buffer tool was giving us messy results on concave corners)
+# Purpose: We will create a TRUE mathematical offset for polygons
+# because the standard buffer tool was giving us messy results on concave corners
 # ------------------------------------------------------------------
 
 print("Starting custom geometric offset...")
